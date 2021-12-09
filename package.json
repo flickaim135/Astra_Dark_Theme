@@ -1,0 +1,21 @@
+{
+    "name": "astra-dark",
+    "displayName": "Astra Dark",
+    "description": "Official VS Code theme of Astra. This is the dark thme. Hope you like the thme.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Astra Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Astra Dark-color-theme.json"
+            }
+        ]
+    }
+}
