@@ -26,7 +26,7 @@
 </p>
 
 ### Resources
-* [Marketplace](http://code.visualstudio.com/docs/languages/markdown)
+* [Marketplace](https://marketplace.visualstudio.com/items?itemName=AstraDark.astra-dark)
 * [Repository](https://github.com/flickaim135/Astra_Dark_Theme)
 
 ### More Info
