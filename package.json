@@ -1,9 +1,9 @@
 {
     "name": "astra-dark",
     "displayName": "Astra Dark",
-    "description": "Official VS Code theme of Astra. This is the dark thme. Hope you like the thme.",
+    "description": "Official VS Code theme of Astra. This is the dark theme. Hope you like the theme.",
     "version": "0.0.1",
-    "publisher": "Astra Dark",
+    "publisher": "AstraDark",
     "repository": {
         "type": "git",
         "url": "https://github.com/flickaim135/Astra_Dark_Theme"
@@ -17,7 +17,7 @@
         "dark theme",
         "astra"
     ],
-    
+
     "engines": {
         "vscode": "^1.63.0"
     },
